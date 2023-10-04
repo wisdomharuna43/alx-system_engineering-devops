@@ -1,2 +1,2 @@
 #!/bin/bash
-head -s 3 iacta
+head -x 3 iacta
